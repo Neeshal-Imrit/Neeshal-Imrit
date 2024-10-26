@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2f9a5d07-0fa5-45d1-a01b-e8106e79cae3)
-
 ## Hi there, I'm Neeshal👋
 
 I'm a third year Co-OP Software Engineering Student at McGill University.
