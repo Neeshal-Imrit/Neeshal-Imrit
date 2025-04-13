@@ -3,9 +3,8 @@
 I'm a third year Co-OP Software Engineering Student at McGill University.
 
 
-- 🔭 I’m currently working on on a a software project in a group of 6 students. We are buidling the frontend (Vue.js) and backend (Java) of an online shopping website!
-- 🌱 I’m currently learning Angular and PowerShell Script development on the side.
-- 💬 Ask me about my one of the most interesting course I took at McGill: [Algorithm Design](https://www.mcgill.ca/study/2024-2025/courses/comp-360)
+- 🔭 I’m currently working on a shooting game entirely made with ARM Assembly language!
+- 🌱 I’m currently learning C# and PowerShell Script development on the side.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neeshal-imrit/)
 <!--
 Here are some cool projects I worked on. 
