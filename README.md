@@ -1,11 +1,17 @@
-## Hi there, I'm Neeshal👋
+## Hi there, I'm Neeshal 👋
 
-I'm a third year Co-OP Software Engineering Student at McGill University.
+I'm a final-year Co-op Software Engineering student at McGill University specializing in Artificial Intelligence, graduating in December 2026.
 
-
-- 🔭 I’m currently working on a shooting game entirely made with ARM Assembly language!
-- 🌱 I’m currently learning C# and PowerShell Script development on the side.
+- 🔭 I recently built **Rélévé**, a premium mobile authentication and onboarding architecture using React Native, Expo Router, and Supabase.
+- 🌱 I’m currently exploring advanced full-stack architectures, cloud automation, and applied machine learning pipelines.
+- ⚡ Fun fact: I enjoy building low-level systems (like a shooting game entirely in ARM Assembly) right alongside scalable enterprise applications.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neeshal-imrit/)
-<!--
-Here are some cool projects I worked on. 
--->
+
+---
+
+### 🚀 Selected Projects & Experience
+
+* **Rélévé:** Premium mobile authentication & onboarding flow built with React Native, Expo Router, Supabase Auth/Database, and strict TypeScript.
+* **Canadian Space Agency Capstone:** Designed and co-developed a Django-based web application to predict potential satellite orbital conjunctions using Domain-Driven Design.
+* **Applied Machine Learning:** Developed a custom LSTM network from scratch and optimized a fine-tuned DistilBERT text classification pipeline using PyTorch and Hugging Face.
+* **Software Engineering Internships (Desjardins & Sherweb):** Built automated testing frameworks, optimized CI/CD workflows, monitored production APIs, and architected robust backend microservices.
